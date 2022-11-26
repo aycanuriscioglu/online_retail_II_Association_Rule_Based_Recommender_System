@@ -1,3 +1,5 @@
+###############################################################
+
 Business Problem [EN]
 
 Below is the basket information of 3 different users. In these baskets
@@ -18,5 +20,7 @@ ya da 1'den fazla olabilir. Karar kurallarını 2010-2011 Germany müşterileri
 Kullanıcı 1’in sepetinde bulunan ürünün id'si: 21987
 Kullanıcı 2’in sepetinde bulunan ürünün id'si : 23235
 Kullanıcı 3’in sepetinde bulunan ürünün id'si : 22747
+
+
 
 ###############################################################
